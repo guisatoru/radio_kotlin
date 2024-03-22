@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pesquisa_cidades</string>
+    <string name="Heading">Qual desses lugares você mais gostaria de visitar?</string>
+    <string name="radioButton1">Roma</string>
+    <string name="radioButton2">Acre</string>
+    <string name="radioButton3">Egito</string>
+    <string name="radioButton4">Espanha</string>
+    <string name="radioButton5">Portugal</string>
+    <string name="enviarBotao">Enviar</string>
+</resources>
